@@ -54,7 +54,7 @@ Execute the compiled program.
 Follow on-screen prompts to interact with the application and explore geometric shapes and calculations.
 
 
-$ g++ -o main main.cpp point.cpp shape.cpp square.cpp rectangle.cpp
+$ g++ -o main graphicsWorld.cpp point.cpp shape.cpp square.cpp rectangle.cpp
 $ ./main
 
 Author:
